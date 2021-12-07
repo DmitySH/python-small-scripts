@@ -1,0 +1,257 @@
+C:\Users\dm1tr\.jdks\openjdk-17\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\lib\idea_rt.jar=60571:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.1\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dm1tr\Desktop\HomeWork3_JavaCardsharps\Cardsharps\target\classes players.club.blackjack.BlackjackTable
+Blackjack started
+Gambler_1 got 3
+Cardsharp_4 got 2
+Gambler_2 got 10
+Cardsharp_3 got 9
+Gambler_2 got 10
+Cardsharp_3 stole 2 from Gambler_2
+Cardsharp_4 got 4
+Gambler_1 got 7
+Cardsharp_4 got 7
+Gambler_2 got 7
+Gambler_1 got 1
+Cardsharp_3 got 9
+Cardsharp_4 got 8
+Gambler_2 got 7
+Gambler_1 got 5
+Cardsharp_4 got 5
+Cardsharp_3 got 1
+Gambler_2 got 2
+Gambler_1 got 8
+Cardsharp_4 got 8
+Cardsharp_3 stole 1 from Gambler_1
+Gambler_2 got 1
+Gambler_1 got 9
+Cardsharp_4 stole 6 from Gambler_1
+Gambler_1 got 3
+Gambler_2 got 2
+Cardsharp_3 stole 5 from Gambler_1
+Cardsharp_4 stole 2 from Gambler_2
+Gambler_2 got 9
+Gambler_1 got 2
+Cardsharp_3 stole 5 from Gambler_2
+Gambler_2 got 10
+Gambler_1 got 1
+Cardsharp_4 got 2
+Gambler_1 got 5
+Gambler_2 got 1
+Cardsharp_3 got 3
+Cardsharp_4 stole 0 from Gambler_1
+Gambler_2 got 9
+Gambler_1 got 2
+Cardsharp_3 stole 4 from Gambler_2
+Cardsharp_4 got 4
+Gambler_2 got 5
+Gambler_1 got 1
+Cardsharp_4 got 4
+Gambler_2 got 10
+Gambler_1 got 6
+Cardsharp_3 stole 8 from Gambler_1
+Gambler_1 got 10
+Cardsharp_4 got 1
+Gambler_2 got 1
+Gambler_1 got 3
+Cardsharp_3 got 1
+Cardsharp_4 got 6
+Gambler_2 got 7
+Gambler_1 got 7
+Cardsharp_3 got 4
+Cardsharp_4 got 7
+Gambler_1 got 3
+Gambler_2 got 8
+Cardsharp_3 stole 6 from Gambler_2
+Gambler_1 got 5
+Cardsharp_4 got 1
+Gambler_2 got 1
+Gambler_1 got 8
+Cardsharp_4 got 9
+Gambler_2 got 3
+Cardsharp_3 got 3
+Gambler_1 got 10
+Cardsharp_4 got 3
+Gambler_2 got 4
+Cardsharp_3 stole 0 from Gambler_2
+Gambler_1 got 6
+Gambler_2 got 7
+Cardsharp_4 stole 4 from Gambler_1
+Gambler_1 got 10
+Cardsharp_3 stole 3 from Gambler_2
+Gambler_2 got 4
+Cardsharp_4 got 9
+Gambler_2 got 6
+Gambler_1 got 6
+Cardsharp_4 got 7
+Cardsharp_3 got 7
+Gambler_1 got 1
+Gambler_2 got 7
+Cardsharp_4 got 9
+Cardsharp_3 got 7
+Gambler_1 got 1
+Gambler_2 got 6
+Cardsharp_4 stole 3 from Gambler_1
+Cardsharp_3 stole 4 from Gambler_2
+Gambler_1 got 8
+Gambler_2 got 10
+Gambler_1 got 9
+Cardsharp_4 got 4
+Cardsharp_3 got 8
+Gambler_2 got 7
+Gambler_1 got 6
+Cardsharp_3 stole 2 from Gambler_1
+Cardsharp_4 got 7
+Gambler_2 got 4
+Gambler_1 got 1
+Cardsharp_4 got 5
+Gambler_2 got 4
+Cardsharp_3 stole 7 from Gambler_1
+Gambler_1 got 9
+Gambler_2 got 4
+Cardsharp_4 got 1
+Gambler_1 got 1
+Cardsharp_4 got 8
+Gambler_2 got 10
+Cardsharp_3 got 1
+Gambler_1 got 3
+Cardsharp_4 got 7
+Gambler_2 got 9
+Cardsharp_3 stole 6 from Gambler_1
+Gambler_1 got 4
+Cardsharp_4 got 7
+Gambler_2 got 7
+Cardsharp_4 got 6
+Cardsharp_3 stole 0 from Gambler_1
+Gambler_1 got 3
+Gambler_2 got 3
+Cardsharp_4 stole 0 from Gambler_1
+Gambler_1 got 7
+Gambler_2 got 2
+Cardsharp_3 got 9
+Cardsharp_4 got 1
+Gambler_1 got 1
+Gambler_2 got 9
+Cardsharp_4 stole 6 from Gambler_1
+Cardsharp_3 stole 1 from Gambler_1
+Gambler_1 got 8
+Gambler_2 got 2
+Gambler_1 got 8
+Cardsharp_4 stole 8 from Gambler_2
+Gambler_2 got 8
+Cardsharp_3 stole 3 from Gambler_1
+Gambler_1 got 3
+Gambler_2 got 2
+Cardsharp_3 stole 5 from Gambler_2
+Gambler_1 got 9
+Cardsharp_4 stole 5 from Gambler_2
+Gambler_2 got 8
+Gambler_1 got 10
+Cardsharp_3 got 2
+Gambler_2 got 4
+Gambler_1 got 6
+Cardsharp_4 stole 0 from Gambler_1
+Gambler_2 got 3
+Cardsharp_3 got 6
+Gambler_1 got 3
+Gambler_2 got 1
+Cardsharp_4 stole 3 from Gambler_2
+Gambler_1 got 6
+Cardsharp_3 got 4
+Gambler_2 got 10
+Cardsharp_3 stole 8 from Gambler_2
+Gambler_1 got 8
+Gambler_2 got 6
+Cardsharp_4 got 8
+Gambler_1 got 10
+Gambler_2 got 8
+Cardsharp_4 got 10
+Cardsharp_3 got 6
+Gambler_1 got 3
+Gambler_2 got 7
+Cardsharp_4 got 7
+Cardsharp_3 got 5
+Gambler_1 got 3
+Gambler_2 got 7
+Cardsharp_3 got 6
+Cardsharp_4 stole 8 from Gambler_2
+Gambler_1 got 1
+Cardsharp_3 got 1
+Gambler_2 got 6
+Cardsharp_4 stole 7 from Gambler_2
+Gambler_1 got 4
+Cardsharp_3 got 7
+Gambler_2 got 1
+Gambler_1 got 10
+Cardsharp_4 got 4
+Cardsharp_3 got 3
+Gambler_2 got 2
+Gambler_1 got 8
+Cardsharp_4 stole 8 from Gambler_1
+Gambler_2 got 4
+Cardsharp_3 stole 8 from Gambler_2
+Gambler_1 got 10
+Gambler_2 got 6
+Cardsharp_4 got 9
+Cardsharp_3 got 9
+Gambler_2 got 10
+Gambler_1 got 8
+Cardsharp_4 stole 6 from Gambler_2
+Cardsharp_3 got 2
+Gambler_2 got 9
+Cardsharp_3 got 10
+Gambler_1 got 4
+Cardsharp_4 stole 2 from Gambler_1
+Gambler_2 got 4
+Cardsharp_3 got 5
+Gambler_1 got 2
+Gambler_2 got 6
+Cardsharp_3 got 8
+Cardsharp_4 stole 2 from Gambler_1
+Gambler_1 got 6
+Gambler_2 got 9
+Cardsharp_3 stole 2 from Gambler_2
+Gambler_1 got 1
+Cardsharp_4 got 1
+Gambler_2 got 4
+Gambler_1 got 9
+Gambler_2 got 5
+Cardsharp_4 got 3
+Cardsharp_3 stole 5 from Gambler_1
+Gambler_1 got 10
+Gambler_2 got 8
+Cardsharp_4 got 10
+Gambler_2 got 9
+Gambler_1 got 7
+Cardsharp_3 got 1
+Cardsharp_4 stole 1 from Gambler_2
+Gambler_2 got 4
+Gambler_1 got 10
+Cardsharp_3 got 4
+Cardsharp_4 got 5
+Cardsharp_3 got 7
+Gambler_1 got 2
+Gambler_2 got 8
+Cardsharp_4 got 9
+Gambler_1 got 10
+Cardsharp_3 got 3
+Cardsharp_4 got 10
+Gambler_2 got 1
+Gambler_1 got 2
+Cardsharp_3 got 4
+Cardsharp_4 got 10
+Gambler_2 got 9
+Gambler_1 got 2
+Cardsharp_3 got 3
+Gambler_1 was interrupted!
+Cardsharp_4 was interrupted!
+Gambler_2 was interrupted!
+Cardsharp_3 was interrupted!
+Gambler_1 has 289
+358   69
+Gambler_2 has 290
+377   87
+Cardsharp_3 has 243
+158   85
+Cardsharp_4 has 299
+228   71
+
+Process finished with exit code 0

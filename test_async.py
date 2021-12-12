@@ -14,10 +14,10 @@ def make_dict(path='files/java_out.txt'):
 
             elif 'from' in line:
                 line = line.split()
-                d[line[4]] = d.get(line[4], {'score': 0, 'from cards': 0,
+                d[line[5]] = d.get(line[5], {'score': 0, 'from cards': 0,
                                              'stole': 0})
-                d[line[4]]['score'] -= int(line[2])
-                d[line[4]]['stole'] -= int(line[2])
+                d[line[5]]['score'] -= int(line[2])
+                d[line[5]]['stole'] -= int(line[2])
 
                 d[line[0]] = d.get(line[0],
                                    {'score': 0, 'from cards': 0,

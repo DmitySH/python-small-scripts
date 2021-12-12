@@ -1,2 +1,2 @@
 # python-small-scripts
-Small helping Python sripts (tests, etc.) 
+Small helping Python scripts (tests, etc.) 
